@@ -1,0 +1,22 @@
+{
+  "name": "Final Assignment MHNurmanR",
+  "version": "1.0.0",
+  "description": "Anda di minta membuat aplikasi web untuk mengelola inventory dengan wireframe seperti berikut :",
+  "main": "Home.html",
+  "scripts": {
+    "start": "parcel frontend/Login.html --open",
+    "build": "parcel build frontend/login.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkclassroom/final-assignment-MHNurmanRdh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkclassroom/final-assignment-MHNurmanRdh/issues"
+  },
+  "homepage": "https://github.com/arkclassroom/final-assignment-MHNurmanRdh#readme"
+}
